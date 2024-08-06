@@ -1,5 +1,5 @@
 .holder{
-	display: flex;               
+  display: flexbox;               
   justify-content: center;     
   align-items: center; 
   width: 100vw;               
